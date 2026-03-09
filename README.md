@@ -10,7 +10,7 @@
 - 🇺🇸 **English Fluent:** Fully capable of technical documentation, writing, and international collaboration.
 - 🧠 Currently deep-diving into **Cybersecurity architectures**, **Artificial Intelligence**, and **Predictive Models**.
 - 🛠️ I spend my time reading international tech docs and building a solid foundation in software engineering.
-- ✉️ Let's connect: [My LinkedIn](www.linkedin.com/in/leonardoneves-cs)
+- ✉️ Let's connect: [My LinkedIn](https://www.linkedin.com/in/leonardoneves-cs)
 
 
 ### 📚 Learning Path (Currently Studying)
