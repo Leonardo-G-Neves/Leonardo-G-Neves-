@@ -17,10 +17,10 @@
 I am currently building my foundation in Computer Science with a focus on:
 
 
-🛡️ Cybersecurity & Network Security: Studying network defense, encryption, and security protocols (SSL/TLS, IPsec).
-🌐 Network Engineering: Deep-diving into TCP/IP stack, Routing & Switching, and services like DNS, HTTP, and SSH.
-💻 Programming & Databases: Developing software projects using Java, C, and SQL for secure data management.
-🔧 DevSecOps Tools: Mastering version control with Git & GitHub and exploring secure coding practices.
+-🛡️ Cybersecurity & Network Security: Studying network defense, encryption, and security protocols (SSL/TLS, IPsec).
+-🌐 Network Engineering: Deep-diving into TCP/IP stack, Routing & Switching, and services like DNS, HTTP, and SSH.
+-💻 Programming & Databases: Developing software projects using Java, C, and SQL for secure data management.
+-🔧 DevSecOps Tools: Mastering version control with Git & GitHub and exploring secure coding practices.
 
 
 ---
